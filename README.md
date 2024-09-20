@@ -16,9 +16,9 @@ Betvast logosu ve diğer marka materyalleri aşağıda verilmiştir. Logolar, pl
 
 | Logo Türü  | Boyut | Format | URL |
 |------------|-------|--------|-----|
-| Ana Logo   | 200x200 px | PNG    | [İndir](https://betvast.ai/img/logo.png) |
-| Koyu Tema Logo | 200x200 px | PNG    | [İndir](https://betvast.ai/img/logo.png) |
-| İkon Logo  | 100x100 px | SVG    | [İndir](https://betvast.ai/img/favicon.png) |
+| Ana Logo   | 832x213 px | PNG    | [İndir](https://betvast.ai/img/logo.png) |
+| Koyu Tema Logo | 832x213 px | PNG    | [İndir](https://betvast.ai/img/logo.png) |
+| İkon Logo  | 300x300 px | SVG    | [İndir](https://betvast.ai/img/favicon.png) |
 
 ## Bahis Verileri
 
