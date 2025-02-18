@@ -1,6 +1,6 @@
 # Betvast - Resmi Web Platformu
 
-[![Betvast Logo](https://betvast.ai/img/logo.png)](https://betvast.bet)
+[![Betvast Logo](https://betvast.ai/img/logo.png)](https://x.com/betvast_x)
 
 **Betvast**, kullanıcılarına en iyi bahis deneyimini sunmayı hedefleyen bir online platformdur. Gelişmiş veri analizi, kullanıcı dostu arayüz ve güvenilir hizmet yapısıyla sektörde öne çıkmaktadır.
 
@@ -28,4 +28,4 @@ Platformumuzdaki bahis oranları ve diğer veriler, çeşitli kaynaklardan topla
 - **XML:** Kapsamlı veri setleri XML formatında da kullanılabilir.
 - **CSV:** İstatistikler ve bahis oranları CSV formatında dışa aktarılabilir.
 
-Detaylı dokümantasyon için [buradan](https://betvast.bet/) ulaşabilirsiniz.
+Detaylı bilgi için [buradan](https://x.com/betvast_x) ulaşabilirsiniz.
