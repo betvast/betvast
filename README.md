@@ -1,6 +1,6 @@
 # Betvast - Resmi Web Platformu
 
-[![Betvast Logo](https://betvast.ai/img/logo.png)](https://x.com/betvast_x)
+[![Betvast Logo](https://betvast.ai/img/bv-logo.png)](https://x.com/betvast_x)
 
 **Betvast**, kullanıcılarına en iyi bahis deneyimini sunmayı hedefleyen bir online platformdur. Gelişmiş veri analizi, kullanıcı dostu arayüz ve güvenilir hizmet yapısıyla sektörde öne çıkmaktadır.
 
